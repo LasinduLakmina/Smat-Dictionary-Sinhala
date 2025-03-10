@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```  
 3️⃣ **Run the Application**  
 ```bash
-python main.py
+python dictionary_app.py
 ```  
 
 ### 📸 Screenshots  
