@@ -1,0 +1,1 @@
+# Smat-Dictionary-Sinhala
